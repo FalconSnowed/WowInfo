@@ -1,6 +1,6 @@
 # 🧙 WoWGameInfo – Discord Bot pour World of Warcraft
 
-**WoWGameInfo** est un bot Discord communautaire dédié à l’univers de **World of Warcraft**, toutes extensions confondues (Classic, Retail, MoP, etc.). Il fournit des quiz, des infos, des vidéos, du lore, des builds, des routes de farm, des actualités, et bien plus encore !
+**WoWInfo** est un bot Discord communautaire dédié à l’univers de **World of Warcraft**, toutes extensions confondues (Classic, Retail, MoP, etc.). Il fournit des quiz, des infos, des vidéos, du lore, des builds, des routes de farm, des actualités, et bien plus encore !
 
 ---
 
